@@ -1,0 +1,14 @@
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/.cphcsrun.AssemblyInfoInputs.cache
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/.cphcsrun.AssemblyInfo.cs
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/.cphcsrun.csproj.CoreCompileInputs.cache
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/Program_bin/.cphcsrun
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/Program_bin/.cphcsrun.deps.json
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/Program_bin/.cphcsrun.runtimeconfig.json
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/Program_bin/.cphcsrun.dll
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/Program_bin/.cphcsrun.pdb
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/.cphcsrun.dll
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/refint/.cphcsrun.dll
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/.cphcsrun.pdb
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/.cphcsrun.genruntimeconfig.cache
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/no5/.cphcsrun/obj/Release/net9.0/ref/.cphcsrun.dll

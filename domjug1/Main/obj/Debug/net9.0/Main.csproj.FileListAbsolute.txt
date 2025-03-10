@@ -1,0 +1,14 @@
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/bin/Debug/net9.0/Main
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/bin/Debug/net9.0/Main.deps.json
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/bin/Debug/net9.0/Main.runtimeconfig.json
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/bin/Debug/net9.0/Main.dll
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/bin/Debug/net9.0/Main.pdb
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/Main.GeneratedMSBuildEditorConfig.editorconfig
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/Main.AssemblyInfoInputs.cache
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/Main.AssemblyInfo.cs
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/Main.csproj.CoreCompileInputs.cache
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/Main.dll
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/refint/Main.dll
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/Main.pdb
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/Main.genruntimeconfig.cache
+/home/aliefrm/Documents/STRUK1/strukdat domjug/domjug1/Main/obj/Debug/net9.0/ref/Main.dll
